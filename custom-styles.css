@@ -3,5 +3,9 @@
     font-family: 'Open Sans';
 }
 .container-fluid {
-    background-color: purple;
+    background-color: palevioletred;
+}
+
+.jumbotron-fluid {
+    background: none;
 }
