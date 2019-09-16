@@ -3,9 +3,13 @@
     font-family: 'Open Sans';
 }
 .container-fluid {
-    background-color: palevioletred;
+    background-color: antiquewhite;
+   
 }
 
 .jumbotron-fluid {
-    background: none;
+    background: antiquewhite;
+}
+.btn-default {
+    color: white;
 }
