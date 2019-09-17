@@ -1,15 +1,36 @@
 ﻿body {
-    background-color: #efefef;
-    font-family: 'Open Sans';
+    background-color: white;
+    font-family:  Helvetica, sans-serif;
+    
 }
 .container-fluid {
-    background-color: antiquewhite;
+    background-color: rgb(245, 225, 207);
    
 }
+h1 {
+    font-weight: bold;
+}
 
-.jumbotron-fluid {
-    background: antiquewhite;
+.jumbotron {
+    background: rgb(245, 225, 207);
+    letter-spacing: -1px;
+}
+#firstbtn {
+    background-color: rgb(88, 107, 212);
+    border: white; 
+}
+.lead{
+    font-size: 1rem; 
 }
 .btn-default {
+    color: white;
+}
+#dwight {
+    
+
+}
+
+footer {
+    background-color: darkblue; 
     color: white;
 }
