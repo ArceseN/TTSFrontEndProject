@@ -27,9 +27,11 @@ h1 {
 }
 #dwight {
     
-
 }
 
+.nav-link {
+    color: rgba(0, 0, 0, 0.829);
+}
 footer {
     background-color: darkblue; 
     color: white;
