@@ -1,23 +1,39 @@
 ﻿body {
     background-color: white;
     font-family:  Helvetica, sans-serif;
-    
+ 
 }
+
+.navbar {
+font-size: 1.1rem; 
+padding: 5px 75px 0px 75px;
+margin-bottom: 0%;
+}
+
 .container-fluid {
     background-color: rgb(245, 225, 207);
    
 }
 h1 {
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: 4rem;
+    letter-spacing: -3px;
+    margin-top: 3.5%;
 }
 
 .jumbotron {
     background: rgb(245, 225, 207);
-    letter-spacing: -1px;
+    color: rgb(2, 2, 63);
+    
 }
 #firstbtn {
     background-color: rgb(88, 107, 212);
-    border: white; 
+    border: white;
+    font-weight: 549;
+    width: 11%;
+    line-height: 200%;
+    font-kerning: auto;
+    
 }
 .lead{
     font-size: 1rem; 
@@ -31,6 +47,7 @@ h1 {
 
 .nav-link {
     color: rgba(0, 0, 0, 0.829);
+    margin-right: 20px;
 }
 footer {
     background-color: darkblue; 
